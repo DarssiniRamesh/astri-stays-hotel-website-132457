@@ -1,1 +1,3 @@
-# astri-stays-hotel-website-132457
+# Project Repository
+
+This is the initial README file for the project.
